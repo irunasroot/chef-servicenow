@@ -1,4 +1,4 @@
-name 'chef-servicenow'
+name 'servicenow'
 maintainer 'Dennis Whitney'
 maintainer_email 'denniswhitney@irunasroot.com'
 license 'All Rights Reserved'
