@@ -1,7 +1,7 @@
 name 'servicenow'
 maintainer 'Dennis Whitney'
 maintainer_email 'denniswhitney@irunasroot.com'
-license 'All Rights Reserved'
+license 'GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007'
 description 'Cookbook recipes, modules, and plugins that help manage ServiceNow'
 version '0.1.0'
 chef_version '>= 16.0'
